@@ -1,4 +1,5 @@
 $(function () {
+  $('#SketchPad').sketch();
     $('#container').highcharts({
         title: {
             text: 'Monthly Average Temperature',
